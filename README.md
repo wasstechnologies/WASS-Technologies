@@ -1,2 +1,11 @@
-# WASS-Technologies
-IT solutions provider specializing in cybersecurity, cloud, and backup solutions.
+# Wasstech IT Solutions
+
+Wasstech provides cybersecurity, cloud, and backup solutions for businesses in Egypt.
+
+## Services
+- Cybersecurity
+- Cloud Solutions
+- Backup & Disaster Recovery
+
+## Website
+https://wasstech.com
